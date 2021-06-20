@@ -1,3 +1,4 @@
+![Rides_per_Weekday](https://user-images.githubusercontent.com/80140082/122685596-33a0c680-d1c1-11eb-95a6-1512ef3007ce.png)
 # BikeSharing
 
 In your README markdown file, include the following:
@@ -31,7 +32,10 @@ The following is the distribution:
 
 3) The most popular weekday and hours for the highest number of bike trips are during commuter hours. Thursday is the busiest day of the week, followed by Friday and Saturdays. Casual riders primarily utilize the bike service during the weekends with Saturday having the highest number of bike rides. 
 
-![Commuters vs  Weekend Leisure Riders](https://user-images.githubusercontent.com/80140082/122685506-9e053700-d1c0-11eb-8e39-790c90f0961c.png)
+![Rides_per_Weekday](https://user-images.githubusercontent.com/80140082/122685600-3dc2c500-d1c1-11eb-97b5-3ad98c60fbb5.png)
+
+![Commuters vs  Weekend Leisure Riders](https://user-images.githubusercontent.com/80140082/122685606-474c2d00-d1c1-11eb-8bea-8e5cbf910720.png)
+
 
 
 # Summary
