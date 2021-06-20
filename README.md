@@ -13,17 +13,26 @@ The project scope involved utilizing Jupyter Notebook and Python to import the N
 # Results of Analysis
 The following are the key findings:
 
-1) Subscribers, or repeat bike riders, make up the largest proportion of the total New City Citi Bike user base. The total subscriber customer base is 4.3x larger than casual riders.
+1) Subscribers, or repeat bike riders, make up the largest proportion of the total New City Citi Bike user base. The total subscriber customer base is 4.3x larger than casual riders. Male riders make up the largest number of riders of 2,344,224. 
+
+The following is the distribution:
+
+         * Male riders make up 65% of the total customer base.
+         * Female riders make up 25% of the total customer base.
+         * Unknown gender type make up 10% of the total customer base.
+
+![Customers and Gender Breakdown](https://user-images.githubusercontent.com/80140082/122685140-77460100-d1be-11eb-8ae0-6e6e8d058ae7.png)
 
 
-2) Male riders make up the largest number of riders of 2,344,224
-    * Male riders make up 65% of the total customer base.
-    * Female riders make up 25% of the total customer base.
-    * Unknown gender type make up 10% of the total customer base.
+2) Male subscribers have the longest total bike trip durations. Casual riders have the shortest trip durations and utilize the bike sharing service primarily on the weekends. 
 
-3) Male subscribers have the longest total bike trip durations. Casual riders have the shortest trip durations and utilize the bike sharing service primarily on the weekends. 
+![Avg_Trip_Duration](https://user-images.githubusercontent.com/80140082/122685481-757d3d00-d1c0-11eb-8241-fa2ecb10d98a.png)
 
-4) The most popular weekday and hours for the highest number of bike trips are during commuter hours. Thursday is the busiest day of the week, followed by Friday and Saturdays. Casual riders primarily utilize the bike service during the weekends with Saturday having the highest number of bike rides. 
+
+3) The most popular weekday and hours for the highest number of bike trips are during commuter hours. Thursday is the busiest day of the week, followed by Friday and Saturdays. Casual riders primarily utilize the bike service during the weekends with Saturday having the highest number of bike rides. 
+
+![Commuters vs  Weekend Leisure Riders](https://user-images.githubusercontent.com/80140082/122685506-9e053700-d1c0-11eb-8e39-790c90f0961c.png)
+
 
 # Summary
 The size of the NYC Citi Bike Sharing ridership base in 2019 was 28% of the New York City population of 8.419M according to US Census 2019. For densely populated metropolitan areas, a bike sharing program has high potential for riders that want to make frequent and short bike trips and for casual riders interested in using the service for leisure or one-time trips.
@@ -44,5 +53,5 @@ Based on the analysis, there are several conclusions and recommendations.
 4) Further analyze the profitability of subscribers vs. casual riders, male vs. famale vs. unknown user types, and trip durations. For casual riders, if the pricing model is by the hour, for example, identify opportunities to increase the average trip duration through special campaigns and promotions, particularly for leisure rentals. Assuming that the number of subscribers will remain relatively stable because these riders are using bikes for work commute purposes, there is a potential uplift opportunity in the casual customer base by advertising tourist-friendly ride packages, offering bike packages for family trips around the city, and building partnerships with other tourist services in the city.
 
 
-## Link to Tableau Public for the charts and story board.
+## Link to Tableau Public for the charts and story board
 https://public.tableau.com/app/profile/hd123/viz/Bike_Sharing_Challenge_16240678047710/NYCCitiBikeStory
