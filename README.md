@@ -56,5 +56,7 @@ Based on the analysis, there are several conclusions and recommendations.
 4) Further analyze the profitability of subscribers vs. casual riders, male vs. famale vs. unknown user types, and trip durations. For casual riders, if the pricing model is by the hour, for example, identify opportunities to increase the average trip duration through special campaigns and promotions, particularly for leisure rentals. Assuming that the number of subscribers will remain relatively stable because these riders are using bikes for work commute purposes, there is a potential uplift opportunity in the casual customer base by advertising tourist-friendly ride packages, offering bike packages for family trips around the city, and building partnerships with other tourist services in the city.
 
 
-## Link to Tableau Public for the charts and story board
+## Link to Tableau Public
+Please refer to this link to view all charts and story board.
+
 https://public.tableau.com/app/profile/hd123/viz/Bike_Sharing_Challenge_16240678047710/NYCCitiBikeStory
