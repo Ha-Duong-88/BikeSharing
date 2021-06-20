@@ -38,13 +38,13 @@ The size of the NYC Citi Bike Sharing ridership base in 2019 was 28% of the New 
 
 Based on the analysis, there are several findings and recommendations.
 
-## Summary Findings
+### Summary Findings
 
 1) Subscriber customers are responsible for more bike trips and longer trip duration over casual customers.
 2) The highest number of bike rides and utilization is during the peak commuter hours from Monday - Friday with Thursday being the peak day.
 3) Casual riders tend to utilize the bike sharing service more on Saturdays and Sundays. This is likely for leisure purposes and one-time trips to perform errands.
 
-## Recommendations
+### Recommendations
 1) Maximize the number of subscribers as they are repeat customers by offering promotions and referral discounts, for example. Subscribers are more likely than casual customers to use the bike sharing program to commute to work or for work purposes, such as food delivery, messenger services or as an alternative, quicker mode of transportation for short trips rather than driving, walking or taking public transporation.
 
 2) Since male riders comprise the highest number of users, conduct a deeper analysis to identify other dimensions about this user base such as profession and bike usage purposes. For example, if the purpose is to deliver food, determine the most popular locations in the city for food delivery and ensure that there are more bikes available for rental and pickup and drop-off points for those locales.
@@ -54,6 +54,7 @@ Based on the analysis, there are several findings and recommendations.
 4) Further analyze the profitability of subscribers vs. casual riders, male vs. famale vs. unknown user types, and trip durations. For example, if the pricing model For casual riders is by the hour, identify additional opportunities to increase the average trip duration through special campaigns and promotions, particularly for leisure rentals. Assuming that the number of subscribers will remain relatively stable because these riders are using the bike sharing service for work commute purposes, there is a potential uplift opportunity in the casual customer base by advertising tourist-friendly ride packages, offering bike packages for family trips around the city, and building partnerships with other tourist services in the city.
 
 This analysis and the recommendations set forth in this report are primarily focused on the ridership and opportunities to increase the number of riders based on demographics and dimensions. To determine the economics of the business model, deeper analysis would be required to determine: 
+
         * Cost of purchasing bikes - regular bikes vs e-bikes
         * Maintenance cost
         * Technology cost
