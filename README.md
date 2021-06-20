@@ -1,9 +1,6 @@
 # BikeSharing
+Python, Pandas, Jupyter Notebook, Tableau
 
-In your README markdown file, include the following:
-Overview of the analysis: Explain the purpose of this analysis.
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 # Project Overview
 The objective of this project is to create an analysis to convince investers that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, bike trip analysis examined the New York City Bike Program to draw some conclusions and recommendations.
