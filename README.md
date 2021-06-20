@@ -1,4 +1,3 @@
-![Rides_per_Weekday](https://user-images.githubusercontent.com/80140082/122685596-33a0c680-d1c1-11eb-95a6-1512ef3007ce.png)
 # BikeSharing
 
 In your README markdown file, include the following:
