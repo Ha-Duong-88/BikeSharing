@@ -33,24 +33,35 @@ The following is the distribution:
 ![Commuters vs  Weekend Leisure Riders](https://user-images.githubusercontent.com/80140082/122685606-474c2d00-d1c1-11eb-8bea-8e5cbf910720.png)
 
 
-
 # Summary
 The size of the NYC Citi Bike Sharing ridership base in 2019 was 28% of the New York City population of 8.419M according to US Census 2019. For densely populated metropolitan areas, a bike sharing program has high potential for riders that want to make frequent and short bike trips and for casual riders interested in using the service for leisure or one-time trips.
 
-Based on the analysis, there are several conclusions and recommendations.
+Based on the analysis, there are several findings and recommendations.
+
+## Summary Findings
 
 1) Subscriber customers are responsible for more bike trips and longer trip duration over casual customers.
 2) The highest number of bike rides and utilization is during the peak commuter hours from Monday - Friday with Thursday being the peak day.
 3) Casual riders tend to utilize the bike sharing service more on Saturdays and Sundays. This is likely for leisure purposes and one-time trips to perform errands.
 
 ## Recommendations
-1) Maximize the number of subscribers as they are repeat customers. Subscribers are more likely than casual customers to use the bike sharing program to commute to work or for work purposes, such as food delivery, messenger services or as an alternative, quicker mode of transportation for short trips rather than driving, walking or taking public transporation.
+1) Maximize the number of subscribers as they are repeat customers by offering promotions and referral discounts, for example. Subscribers are more likely than casual customers to use the bike sharing program to commute to work or for work purposes, such as food delivery, messenger services or as an alternative, quicker mode of transportation for short trips rather than driving, walking or taking public transporation.
 
 2) Since male riders comprise the highest number of users, conduct a deeper analysis to identify other dimensions about this user base such as profession and bike usage purposes. For example, if the purpose is to deliver food, determine the most popular locations in the city for food delivery and ensure that there are more bikes available for rental and pickup and drop-off points for those locales.
 
-3) Further analyze the demographics of the 'Unknown' user type as this can sway the distribution of male vs. female vs. other riders that prefer not to self-identify due to personal reasons. 
+3) Further analyze the demographics of the 'Unknown' user type as this could sway the distribution of male vs. female vs. other riders that prefer not to self-identify due to personal reasons. 
 
-4) Further analyze the profitability of subscribers vs. casual riders, male vs. famale vs. unknown user types, and trip durations. For casual riders, if the pricing model is by the hour, for example, identify opportunities to increase the average trip duration through special campaigns and promotions, particularly for leisure rentals. Assuming that the number of subscribers will remain relatively stable because these riders are using bikes for work commute purposes, there is a potential uplift opportunity in the casual customer base by advertising tourist-friendly ride packages, offering bike packages for family trips around the city, and building partnerships with other tourist services in the city.
+4) Further analyze the profitability of subscribers vs. casual riders, male vs. famale vs. unknown user types, and trip durations. For example, if the pricing model For casual riders is by the hour, identify additional opportunities to increase the average trip duration through special campaigns and promotions, particularly for leisure rentals. Assuming that the number of subscribers will remain relatively stable because these riders are using the bike sharing service for work commute purposes, there is a potential uplift opportunity in the casual customer base by advertising tourist-friendly ride packages, offering bike packages for family trips around the city, and building partnerships with other tourist services in the city.
+
+This analysis and the recommendations set forth in this report are primarily focused on the ridership and opportunities to increase the number of riders based on demographics and dimensions. To determine the economics of the business model, deeper analysis would be required to determine: 
+        * Cost of purchasing bikes - regular bikes vs e-bikes
+        * Maintenance cost
+        * Technology cost
+        * Paid marketing (social media) cost
+        * Human resources and assets
+        * Determine the break-even cost versus when the business will beging realizing profit
+        * Which neighorhoods or city routes will services be available and will generate the most revenue while ensuring social and economic justice impacts
+        * Population size, population density per square mile for the metropolitan/urban cities and projected growth rate for Des Moines, Iowa
 
 
 ## Link to Tableau Public
